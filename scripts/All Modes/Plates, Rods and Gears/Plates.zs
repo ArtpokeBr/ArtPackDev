@@ -47,7 +47,7 @@ recipes.remove(<moreplates:empowered_emeradic_plate>);
 recipes.remove(<moreplates:empowered_enori_plate>);
 recipes.remove(<moreplates:empowered_palis_plate>);
 recipes.remove(<moreplates:empowered_restonia_plate>);
-recipes.remove(<moreplates:empowered_void_plate>);
+#recipes.remove(<moreplates:empowered_void_plate>);
 recipes.remove(<techreborn:plates:11>);
 recipes.remove(<moreplates:pig_iron_plate>);
 recipes.remove(<moreplates:manyullyn_plate>);
@@ -80,7 +80,7 @@ recipes.remove(<moreplates:redstone_plate>);
 recipes.remove(<immersiveengineering:metal:35>);
 
 // Empowered Plates and Gears ======================================================================================================================================
-mods.actuallyadditions.Empowerer.removeRecipe(<moreplates:empowered_void_plate>);
+#mods.actuallyadditions.Empowerer.removeRecipe(<moreplates:empowered_void_plate>);
 mods.actuallyadditions.Empowerer.removeRecipe(<moreplates:empowered_enori_plate>);
 mods.actuallyadditions.Empowerer.removeRecipe(<moreplates:empowered_restonia_plate>);
 mods.actuallyadditions.Empowerer.removeRecipe(<moreplates:empowered_palis_plate>);
@@ -215,10 +215,12 @@ mods.thermalexpansion.Compactor.addPressRecipe(<moreplates:empowered_diamatine_p
 mods.nuclearcraft.pressurizer.addRecipe([<actuallyadditions:item_crystal_empowered:2>, <moreplates:empowered_diamatine_plate>]);
 mods.techreborn.compressor.addRecipe(<moreplates:empowered_diamatine_plate>, <actuallyadditions:item_crystal_empowered:2>, 150, 30);
 
+/*
 // Empowered Coal Plate =======================================================================================================================================
 mods.thermalexpansion.Compactor.addPressRecipe(<moreplates:empowered_void_plate>, <actuallyadditions:item_crystal_empowered:3>, 1500);
 mods.nuclearcraft.pressurizer.addRecipe([<actuallyadditions:item_crystal_empowered:3>, <moreplates:empowered_void_plate>]);
 mods.techreborn.compressor.addRecipe(<moreplates:empowered_void_plate>, <actuallyadditions:item_crystal_empowered:3>, 150, 30);
+*/
 
 // Empowered Emerald Plate =======================================================================================================================================
 mods.thermalexpansion.Compactor.addPressRecipe(<moreplates:empowered_emeradic_plate>, <actuallyadditions:item_crystal_empowered:4>, 1500);
@@ -289,7 +291,6 @@ mods.thermalexpansion.Compactor.addPressRecipe(<thaumcraft:plate:3>, <thaumcraft
 mods.nuclearcraft.pressurizer.addRecipe([<ore:ingotVoid>, <thaumcraft:plate:3>]);
 recipes.addShaped(<thaumcraft:plate:3>, [[<immersiveengineering:tool>], [<ore:ingotVoid>], [<ore:ingotVoid>]]);
 mods.techreborn.compressor.addRecipe(<thaumcraft:plate:3>, <ore:ingotVoid>, 150, 30);
-
 
 // Wooden Plates =======================================================================================================================================
 recipes.addShaped(<techreborn:plates:3>, [[<immersiveengineering:tool>], [<ore:plankWood>], [<ore:plankWood>]]);
