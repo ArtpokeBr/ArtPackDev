@@ -336,3 +336,13 @@ mods.techreborn.industrialElectrolyzer.addRecipe(<techreborn:smalldust:61> * 2, 
 //Aluminum Dust to Titanium
 mods.techreborn.industrialElectrolyzer.addRecipe(<techreborn:smalldust:54> * 2, <techreborn:dynamiccell>.withTag({Fluid: {FluidName: "fluidhydrogen", Amount: 1000}}) * 5, <techreborn:dynamiccell>.withTag({Fluid: {FluidName: "fluidcompressedair", Amount: 1000}}) * 3, <techreborn:dust:5> * 8, <thermalfoundation:material:68> * 12, <techreborn:dynamiccell> * 8, 400, 200);
 
+#### Rework on Refined Processors Recipes =================
+mods.techreborn.assemblingMachine.removeRecipe(<refinedstorage:processor:3>);
+mods.techreborn.assemblingMachine.removeRecipe(<refinedstorage:processor:4>);
+mods.techreborn.assemblingMachine.removeRecipe(<refinedstorage:processor:5>);
+
+var SiliconPlate = <ore:plateSilicon>;
+
+mods.techreborn.assemblingMachine.addRecipe(<refinedstorage:processor:3>, SiliconPlate, <ore:platerefinedIron>, 80, 32);
+mods.techreborn.assemblingMachine.addRecipe(<refinedstorage:processor:4>, SiliconPlate, <ore:plateGold>, 80, 32);
+mods.techreborn.assemblingMachine.addRecipe(<refinedstorage:processor:5>, SiliconPlate, <ore:plateDiamond>, 80, 32);

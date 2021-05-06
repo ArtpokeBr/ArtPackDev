@@ -19,5 +19,5 @@ recipes.addShaped(<environmentaltech:diode> * 4, [[<techreborn:plates:33>, <more
 
 // Interconnect
 recipes.remove(<environmentaltech:interconnect>);
-recipes.addShaped(<environmentaltech:interconnect> * 4, [[<environmentaltech:connector>, <moreplates:electrical_steel_plate>, <environmentaltech:connector>], [<moreplates:electrical_steel_plate>, <environmentaltech:diode>, <moreplates:electrical_steel_plate>],[<environmentaltech:connector>, <moreplates:electrical_steel_plate>, <environmentaltech:connector>]]);
+recipes.addShaped(<environmentaltech:interconnect> * 4, [[<environmentaltech:connector>, <ore:plateMelodicAlloy>, <environmentaltech:connector>], [<ore:plateMelodicAlloy>, <environmentaltech:diode>, <ore:plateMelodicAlloy>],[<environmentaltech:connector>, <ore:plateMelodicAlloy>, <environmentaltech:connector>]]);
 

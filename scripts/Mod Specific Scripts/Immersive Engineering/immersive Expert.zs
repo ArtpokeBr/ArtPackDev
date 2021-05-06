@@ -4,6 +4,11 @@ import mods.immersiveengineering.BlastFurnace;
 import mods.immersiveengineering.Mixer;
 import mods.immersiveengineering.Refinery;
 import mods.inworldcrafting.FluidToItem;
+import mods.actuallyadditions.Crusher;
+import mods.thermalexpansion.Pulverizer;
+import mods.enderio.SagMill;
+import mods.nuclearcraft.manufactory;
+import mods.techreborn.grinder;
 
 # Fix for Steel taking so long to Craft ===================================================
 
@@ -95,3 +100,14 @@ recipes.addShaped(<immersiveengineering:metal_decoration0:1> * 1, [[<immersiveen
 recipes.remove(<immersiveengineering:metal_decoration0:2>);
 recipes.addShaped(<immersiveengineering:metal_decoration0:2> * 1, [[<immersiveengineering:wirecoil:2>, <immersiveengineering:wirecoil:2>, <immersiveengineering:wirecoil:2>], [<immersiveengineering:wirecoil:2>, <immersiveengineering:material:2>, <immersiveengineering:wirecoil:2>],[<immersiveengineering:wirecoil:2>, <immersiveengineering:wirecoil:2>, <immersiveengineering:wirecoil:2>]]);
 
+#### Coke Dust Compatibility ####
+
+var CokeDust = <immersiveengineering:material:17>;
+
+mods.actuallyadditions.Crusher.addRecipe(CokeDust, <ore:fuelCoke>);
+mods.thermalexpansion.Pulverizer.addRecipe(CokeDust, <immersiveengineering:material:6>, 150);
+mods.thermalexpansion.Pulverizer.addRecipe(CokeDust, <thermalfoundation:material:802>, 150);
+mods.enderio.SagMill.addRecipe([CokeDust], [100], <ore:fuelCoke>);
+mods.mekanism.crusher.addRecipe(<ore:fuelCoke>, CokeDust);
+mods.nuclearcraft.manufactory.addRecipe([<ore:fuelCoke>, CokeDust]);
+mods.techreborn.grinder.addRecipe(CokeDust, <ore:fuelCoke>, 40, 20);

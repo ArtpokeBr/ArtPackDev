@@ -11,9 +11,9 @@ recipes.addShaped(<contenttweaker:whitemagicdust> * 2, [[<astralsorcery:itemcraf
 # Divination Dust in the Runic Altar =================================================================
 
 //mods.botania.RuneAltar.addRecipe(IItemStack output, IIngredient[] input, int mana);
-mods.botania.RuneAltar.addRecipe(<contenttweaker:dustotg>,[<contenttweaker:darkmagicdust> * 2, <contenttweaker:whitemagicdust> * 2, <magicbees:resource:1> * 2, <twilightforest:ironwood_ingot>, <twilightforest:fiery_ingot>, <twilightforest:knightmetal_ingot>, <twilightforest:steeleaf_ingot>], 1000000);
+mods.botania.RuneAltar.addRecipe(<contenttweaker:dustotg>,[<contenttweaker:darkmagicdust>, <contenttweaker:whitemagicdust>, <magicbees:resource:1>, <ore:dustPlutonium>, <ore:dustLazurite>, <ore:dustMana>, <ore:dustSpessartine>], 500000);
 
-<contenttweaker:dustotg>.addTooltip(format.aqua("Requires 1 Entire Mana Pool to craft."));
+<contenttweaker:dustotg>.addTooltip(format.aqua("Requires half of a Mana Pool to craft."));
 
 # Refined Era (LV)
 
