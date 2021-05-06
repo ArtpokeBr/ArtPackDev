@@ -1,0 +1,34 @@
+{
+    "machine": "seed_fabricator",
+    "registryName": "Starmetal Seeds",
+    "recipeTime": 280,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "mysticalagriculture:starmetal_seeds",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "mysticalagriculture:crafting@21",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "jaopca:block_blockastralstarmetal",
+            "amount": 8
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "supremium_essence",
+            "amount": 5000
+        }
+
+
+        
+    ]
+}

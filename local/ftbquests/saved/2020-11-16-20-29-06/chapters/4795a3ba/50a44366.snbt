@@ -1,0 +1,26 @@
+{
+	title: "All the GP's in the World!",
+	x: 4.0d,
+	y: -1.0d,
+	shape: "square",
+	description: "You don't need those 10 Dragon Egg mills anymore!",
+	text: [
+		"GangPlank ~ Barrel!"
+	],
+	dependencies: [
+		"bdb90825"
+	],
+	hide: true,
+	tasks: [{
+		uid: "207fe2a8",
+		type: "item",
+		items: [{
+			item: "extrautils2:passivegenerator 1 6"
+		}]
+	}],
+	rewards: [{
+		uid: "f5074bd4",
+		type: "choice",
+		table: 1
+	}]
+}

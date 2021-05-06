@@ -1,0 +1,30 @@
+{
+	title: "Did you know that the Pack has a Expert Version?",
+	icon: "techreborn:machine_casing",
+	x: -2.5d,
+	y: -0.5d,
+	shape: "circle",
+	description: "Yup, Simply use the Command (/packmode expert) and Restart the game, some recipes and Mechanics will be changed! (/packmode normal to revert it).",
+	text: [
+		"Also Keep in mind that this is a  * Secret * Option, I was working on a Expert Version of this pack and them I've decided that I should just make a Separate",
+		"and More Focused Expert Pack... But recipe changes here where cool and people liked them, If you want the experience of an slightly Expert Pack Go ahead!",
+		"(Keep in mind that I didn't finish all the recipe changes so Only some \"Key\" ones are present, but i'll still fix some of them if you find issues I'll not continue",
+		"the development of them tho.)"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"34965c4b"
+	],
+	hide: true,
+	size: 0.5d,
+	tasks: [{
+		uid: "25fc9658",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "2eb6a4ef",
+		type: "command",
+		title: "Turn the Modpack into Expert Mode (Requires restart)",
+		command: "/packmode expert"
+	}]
+}

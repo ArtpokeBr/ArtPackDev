@@ -1,0 +1,27 @@
+{
+	title: "All the Monitoring in the World!",
+	x: 4.0d,
+	y: 0.5d,
+	shape: "rsquare",
+	description: "The Creative Screen in Simple, but still usefull, why not make it?",
+	text: [
+		""
+	],
+	dependencies: [
+		"bdb90825"
+	],
+	hide: true,
+	tasks: [{
+		uid: "b784e93d",
+		type: "item",
+		items: [{
+			item: "rftools:creative_screen"
+		}]
+	}],
+	rewards: [{
+		uid: "1cdb5adf",
+		type: "item",
+		item: "rftools:creative_screen",
+		random_bonus: 4
+	}]
+}

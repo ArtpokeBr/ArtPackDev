@@ -1,0 +1,39 @@
+{
+    "machine": "wooting_machine",
+    "registryName": "wooting_machine_stygian_dust",
+    "recipeTime": 50,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 100
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "woot:stygianirondust",
+            "amount": 3
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:netherrack",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:iron_ore",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:soul_sand",
+            "amount": 1
+        }
+
+
+        
+    ]
+}

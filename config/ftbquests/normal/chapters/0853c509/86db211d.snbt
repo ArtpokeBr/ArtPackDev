@@ -1,0 +1,22 @@
+{
+	title: "But how do I go to the Twilight?",
+	icon: "twilightforest:miniature_structure",
+	x: -2.0d,
+	y: -0.5d,
+	text: [
+		"Short Answer, Star Metal Ingot!"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"34965c4b"
+	],
+	hide: true,
+	size: 0.5d,
+	tasks: [{
+		uid: "936aa65e",
+		type: "item",
+		items: [{
+			item: "astralsorcery:itemcraftingcomponent 1 1"
+		}]
+	}]
+}

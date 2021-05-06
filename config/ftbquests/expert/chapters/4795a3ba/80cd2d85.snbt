@@ -1,0 +1,27 @@
+{
+	title: "All the Creative Thermally Expanse",
+	x: 4.0d,
+	y: -2.0d,
+	shape: "square",
+	description: "Thermal Expansion stuff never been sooo good before!",
+	text: [
+		""
+	],
+	dependencies: [
+		"bdb90825"
+	],
+	hide: true,
+	tasks: [{
+		uid: "34936595",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:upgrade 1 256"
+		}]
+	}],
+	rewards: [{
+		uid: "99b28faa",
+		type: "item",
+		item: "thermalfoundation:upgrade 1 256",
+		random_bonus: 4
+	}]
+}

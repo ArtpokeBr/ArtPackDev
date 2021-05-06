@@ -1,0 +1,27 @@
+{
+    "machine": "wooting_machine",
+    "registryName": "wooting_machine_3",
+    "recipeTime": 50,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 10
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "woot:shard",
+            "amount": 3
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:diamond",
+            "amount": 1
+        }
+
+
+        
+    ]
+}

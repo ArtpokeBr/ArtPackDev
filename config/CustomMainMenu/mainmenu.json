@@ -1,0 +1,236 @@
+{
+    "images":
+    {
+		"modpack":
+		{
+            "image" : "mainmenu:modpack.png",
+            "posX" : -38,
+            "posY" : -160,
+            "width" : 80,
+            "height" : 80,
+            "alignment" : "center"
+		},
+        "ArtPack Logo Text":
+		{
+            "image" : "mainmenu:ArtPack.png",
+            "posX" : -100,
+            "posY" : -70,
+            "width" : 200,
+            "height" : 40,
+            "alignment" : "center"
+        }
+        
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : -100,
+            "posY" : 0,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        }, 
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : 2,
+            "posY" : 0,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },        
+        "mods":
+        {
+            "text" : "Mods",
+            "posX" : 2,
+            "posY" : 25,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },	
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : -100,
+            "posY" : 25,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        "quit":
+        {
+            "text" : "menu.quit",
+            "hoverText" : "Please don't Go!",
+            "posX" : -100,
+            "posY" : 50,
+            "width" : 200,
+            "height" : 20,
+			"alignment" : "center",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        "language":
+        {
+            "text" : "",
+            "posX" : 105,
+            "posY" : 0,
+            "width" : 20,
+            "height" : 20,
+			"alignment" : "center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        "BisectHosting":
+        {
+            "text" : "Rent a Server!",
+            "posX" : -104,
+            "posY" : 0,
+            "textOffsetX" : 15,
+            "hoverText" : "BisectHosting!",
+            "width" : 98,
+            "height" : 14,
+            "normalTextColor" : -1,
+			"hoverTextColor" : 651021,
+			"alignment" : "right_center",
+			"texture" : "mainmenu:blankbutton.png",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://bisecthosting.com/Artpoke"
+            }
+        },		
+        "GitHub":
+        {
+            "text" : "Bug Reports",
+            "posX" : -95,
+            "posY" : -14,
+            "textOffsetX" : 5,
+            "hoverText" : "Sugestions too",
+            "width" : 98,
+            "height" : 14,
+            "normalTextColor" : -1,
+			"hoverTextColor" : 651021,
+			"alignment" : "right_center",
+			"texture" : "mainmenu:blankbutton.png",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://github.com/ArtpokeBr/ArtPack/issues"
+            }
+        },
+		"Discord":
+        {
+            "text" : "My Discord",
+            "posX" : -90,
+            "posY" : -28,
+            "textOffsetX" : 0,
+            "width" : 98,
+            "height" : 14,
+            "normalTextColor" : -1,
+			"hoverTextColor" : 651021,
+			"alignment" : "right_center",
+			"texture" : "mainmenu:blankbutton.png",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://discord.gg/FprwvNQ"
+            }
+        },
+        "refresh":
+        {
+            "text" : "",
+            "posX" : -20,
+            "posY" : 0,
+            "width" : 20,
+            "height" : 20,
+			"alignment" : "top_right",
+            "texture" : "mainmenu:refresh.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        }	
+    },
+    
+    "labels":
+    {
+		"forge":{
+			"text" : "Forge #forgeversion#",
+            "posX" : 2,
+            "posY" : -13,
+			"fontSize" : .6,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_left"
+		},
+		"modsloaded":{
+			"text" : "#modsloaded# Mods Loaded",
+            "posX" : 2,
+            "posY" : -7,
+			"fontSize" : .6,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_left"
+		},
+		"minecraft":{
+			"text" : "Minecraft 1.12.2",
+            "posX" : -60,
+            "posY" : -13,
+			"fontSize" : .6,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_right"
+		},
+		"mojang":
+        {
+            "text" : "Modpack By ArtpokeBr",
+            "posX" : -70,
+            "posY" : -7,
+			"fontSize" : .6,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_right"
+        }
+    },
+    
+    "other":
+    {
+            "panorama" :
+            {
+                "images" : "mainmenu:panorama_%c.png",
+                "animate" : true,
+                "animationSpeed" : 1,
+                "blur" : true,
+                "gradient" : true
+            }
+    }
+
+}

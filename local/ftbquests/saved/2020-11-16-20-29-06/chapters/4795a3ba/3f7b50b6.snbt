@@ -1,0 +1,37 @@
+{
+	title: "All the Items in the World!",
+	x: 2.0d,
+	y: -1.0d,
+	shape: "square",
+	description: "If you completed this quest it probally means that you've finished most of the pack so Congratulations! I don't know how to reward you!",
+	text: [
+		""
+	],
+	dependencies: [
+		"bdb90825"
+	],
+	hide: true,
+	tasks: [{
+		uid: "38ae9464",
+		type: "item",
+		items: [{
+			item: "storagedrawers:upgrade_creative 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "616d6811",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:machineblock",
+			tag: {
+				display: {
+					Name: "Congratulations, infinite Items!"
+				}
+			},
+			Damage: 13s
+		}
+	}]
+}

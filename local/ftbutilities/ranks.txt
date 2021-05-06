@@ -1,0 +1,12 @@
+// For more info visit https://github.com/FTBTeam/FTB-Ranks/wiki
+
+[player]
+power: 1
+default_player_rank: true
+example.permission: true
+example.other_permission: false
+
+[admin]
+power: 2
+default_op_rank: true
+example.other_permission: true

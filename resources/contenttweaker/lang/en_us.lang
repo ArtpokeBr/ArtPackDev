@@ -1,0 +1,57 @@
+
+fluid.blue_essence.0=Essence of Slightly Blue
+fluid.blue_essence.1=Essence of Mildly Blue
+fluid.blue_essence.2=Essence of Blue
+fluid.blue_essence.3=Essence of Very Blue
+fluid.blue_essence.4=Essence of Royal Blue
+fluid.blue_essence.5=Essence of True Blue
+fluid.dragon_breath=Dragon's Breath
+fluid.red_essence.0=Essence of Slightly Red
+fluid.red_essence.1=Essence of Midly Red
+fluid.red_essence.2=Essence of Red
+fluid.red_essence.3=Essence of Very Red
+fluid.red_essence.4=Essence of Bloody Red
+fluid.red_essence.5=Essence of True Red
+fluid.white_essence.0=Light Blue Essence
+fluid.white_essence.1=Essence of Lightened Blue
+fluid.white_essence.2=Essence of Hope
+fluid.white_essence.3=Hopefully Essence
+fluid.white_essence.4=Essence of True Light
+fluid.white_essence.5=Essence of Angelic Light
+fluid.Liquid_slime=Liquid Slime
+fluid.Podzol_mud=Podzol Liquid Mud
+fluid.Supremium_essence=Supremacy Essence
+fluid.liquid_dragon_breath=Liquid Dragon's Breath
+fluid.liquid_purple_dye=Liquified Purple Dye
+fluid.molten_smokeyquartz=Molten Smoked Quartz
+fluid.special_mixture=Special Mixture
+fluid.pyroligneous_acid=Pyroligneous Acid
+fluid.polymer_compound=Polymer Compound
+
+item.contenttweaker.darkmagicdust.name=Dark Magic Dust
+item.contenttweaker.whitemagicdust.name=White Magic Dust
+item.contenttweaker.dustotg.name=Divination Dust
+
+item.contenttweaker.refinedfoil.name=Refined Iron Foil
+item.contenttweaker.refinedpiston.name=Basic Electronic Piston
+item.contenttweaker.refinedstick.name=Refined Iron Stick
+item.contenttweaker.refinedbolt.name=Refined Iron Bolt
+
+item.contenttweaker.glasstube.name=Glass Tube
+item.contenttweaker.basiccircuitbase.name=Basic Circuit Base
+item.contenttweaker.tubemold.name=Metal Press Mold: Tube
+
+item.contenttweaker.densesteelplate.name=Dense Steel Plate
+
+item.contenttweaker.constantanstick.name=Constantan Stick
+item.contenttweaker.constantanbolt.name=Constantan Bolt
+item.contenttweaker.magneticiron.name=Magnetic Iron
+item.contenttweaker.electricmotor.name=Electric Motor
+
+item.contenttweaker.copperfoil.name=Copper Foil
+item.contenttweaker.tinfoil.name=Tin Foil
+item.contenttweaker.goldfoil.name=Gold Foil
+item.contenttweaker.silverfoil.name=Silver Foil
+item.contenttweaker.cablemold.name=Metal Press Mold: Cable
+
+tile.contenttweaker.refinedhull.name=Basic Hull

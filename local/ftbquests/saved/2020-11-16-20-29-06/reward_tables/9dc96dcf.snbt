@@ -1,0 +1,13 @@
+{
+	title: "Food Rewards",
+	loot_size: 1,
+	rewards: [{
+		item: "harvestcraft:bltitem"
+	},
+	{
+		item: "harvestcraft:breadedporkchopitem"
+	},
+	{
+		item: "harvestcraft:fishdinneritem"
+	}]
+}

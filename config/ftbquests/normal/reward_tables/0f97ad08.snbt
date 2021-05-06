@@ -1,0 +1,113 @@
+{
+	title: "Singularities Trohpys",
+	icon: "avaritia:singularity",
+	loot_size: 1,
+	rewards: [{
+		item: "avaritia:resource 1 4"
+	},
+	{
+		item: "avaritia:ultimate_stew"
+	},
+	{
+		item: "avaritia:cosmic_meatballs"
+	},
+	{
+		item: "avaritia:endest_pearl"
+	},
+	{
+		item: "extendedcrafting:singularity_custom 1 30"
+	},
+	{
+		item: "extendedcrafting:singularity_custom 1 29"
+	},
+	{
+		item: "extendedcrafting:singularity_custom 1 28"
+	},
+	{
+		item: "extendedcrafting:singularity_custom 1 27"
+	},
+	{
+		item: "extendedcrafting:singularity_custom 1 16"
+	},
+	{
+		item: "extendedcrafting:singularity_custom 1 17"
+	},
+	{
+		item: "extendedcrafting:singularity_custom 1 18"
+	},
+	{
+		item: "extendedcrafting:singularity_custom 1 19"
+	},
+	{
+		item: "extendedcrafting:singularity_custom 1 20"
+	},
+	{
+		item: "extendedcrafting:singularity_custom 1 21"
+	},
+	{
+		item: "extendedcrafting:singularity_custom 1 22"
+	},
+	{
+		item: "extendedcrafting:singularity_custom 1 23"
+	},
+	{
+		item: "extendedcrafting:singularity_custom 1 24"
+	},
+	{
+		item: "extendedcrafting:singularity_custom 1 25"
+	},
+	{
+		item: "extendedcrafting:singularity_custom 1 26"
+	},
+	{
+		item: "extendedcrafting:singularity_custom 1 15"
+	},
+	{
+		item: "extendedcrafting:singularity_custom 1 14"
+	},
+	{
+		item: "extendedcrafting:singularity_custom 1 13"
+	},
+	{
+		item: "extendedcrafting:singularity_custom 1 12"
+	},
+	{
+		item: "extendedcrafting:singularity_custom 1 11"
+	},
+	{
+		item: "extendedcrafting:singularity_custom 1 10"
+	},
+	{
+		item: "extendedcrafting:singularity_custom 1 9"
+	},
+	{
+		item: "extendedcrafting:singularity_custom 1 8"
+	},
+	{
+		item: "extendedcrafting:singularity_custom 1 7"
+	},
+	{
+		item: "extendedcrafting:singularity_custom 1 6"
+	},
+	{
+		item: "extendedcrafting:singularity_custom 1 5"
+	},
+	{
+		item: "extendedcrafting:singularity 1 35"
+	},
+	{
+		item: "extendedcrafting:singularity 1 48"
+	},
+	{
+		item: "extendedcrafting:singularity 1 49"
+	},
+	{
+		item: "extendedcrafting:singularity 1 50"
+	},
+	{
+		item: "extendedcrafting:singularity 1 64"
+	},
+	{
+		item: "extendedcrafting:singularity 1 65"
+	}]
+}

@@ -1,0 +1,436 @@
+{
+	title: "Give me more Info, More More More!",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "akashictome:tome",
+		tag: {
+			"akashictome:is_morphing": 1b,
+			"akashictome:data": {
+				industrialforegoing: {
+					id: "industrialforegoing:book_manual",
+					Count: 1b,
+					tag: {
+						"akashictome:definedMod": "industrialforegoing"
+					},
+					Damage: 0s
+				},
+				rftoolscontrol: {
+					id: "rftoolscontrol:rftoolscontrol_manual",
+					Count: 1b,
+					tag: {
+						"akashictome:definedMod": "rftoolscontrol"
+					},
+					Damage: 0s
+				},
+				tconstruct: {
+					id: "tconstruct:book",
+					Count: 1b,
+					tag: {
+						"akashictome:definedMod": "tconstruct"
+					},
+					Damage: 0s
+				},
+				astralsorcery: {
+					id: "astralsorcery:itemjournal",
+					Count: 1b,
+					tag: {
+						"akashictome:definedMod": "astralsorcery"
+					},
+					Damage: 0s
+				},
+				immersiveengineering: {
+					id: "immersiveengineering:tool",
+					Count: 1b,
+					tag: {
+						"akashictome:definedMod": "immersiveengineering"
+					},
+					Damage: 3s
+				},
+				valkyrielib: {
+					id: "valkyrielib:guide",
+					Count: 1b,
+					tag: {
+						"akashictome:definedMod": "valkyrielib"
+					},
+					Damage: 0s
+				},
+				cookingforblockheads1: {
+					id: "cookingforblockheads:recipe_book",
+					Count: 1b,
+					tag: {
+						"akashictome:definedMod": "cookingforblockheads1"
+					},
+					Damage: 2s
+				},
+				rftools: {
+					id: "rftools:rftools_manual",
+					Count: 1b,
+					tag: {
+						"akashictome:definedMod": "rftools"
+					},
+					Damage: 0s
+				},
+				rftools1: {
+					id: "rftools:rftools_shape_manual",
+					Count: 1b,
+					tag: {
+						"akashictome:definedMod": "rftools1"
+					},
+					Damage: 0s
+				},
+				solcarrot: {
+					id: "solcarrot:food_book",
+					Count: 1b,
+					tag: {
+						"akashictome:definedMod": "solcarrot"
+					},
+					Damage: 0s
+				},
+				rftools2: {
+					id: "rftoolsdim:rftoolsdim_manual",
+					Count: 1b,
+					tag: {
+						"akashictome:definedMod": "rftools2"
+					},
+					Damage: 0s
+				},
+				extendedcrafting: {
+					id: "extendedcrafting:guide",
+					Count: 1b,
+					tag: {
+						"akashictome:definedMod": "extendedcrafting"
+					},
+					Damage: 0s
+				},
+				guideapi: {
+					id: "guideapi:cyclicmagic-guide",
+					Count: 1b,
+					tag: {
+						"akashictome:definedMod": "guideapi"
+					},
+					Damage: 0s
+				},
+				botania: {
+					id: "botania:lexicon",
+					Count: 1b,
+					tag: {
+						"akashictome:definedMod": "botania"
+					},
+					Damage: 0s
+				},
+				thermalfoundation: {
+					id: "thermalfoundation:tome_lexicon",
+					Count: 1b,
+					tag: {
+						"akashictome:definedMod": "thermalfoundation"
+					},
+					Damage: 0s
+				},
+				extrautils2: {
+					id: "extrautils2:book",
+					Count: 1b,
+					tag: {
+						"akashictome:definedMod": "extrautils2"
+					},
+					Damage: 0s
+				},
+				actuallyadditions: {
+					id: "actuallyadditions:item_booklet",
+					Count: 1b,
+					tag: {
+						"akashictome:definedMod": "actuallyadditions"
+					},
+					Damage: 0s
+				},
+				bloodmagic: {
+					id: "guideapi:bloodmagic-guide",
+					Count: 1b,
+					tag: {
+						"akashictome:definedMod": "bloodmagic"
+					},
+					Damage: 0s
+				},
+				opencomputers: {
+					id: "opencomputers:tool",
+					Count: 1b,
+					tag: {
+						"akashictome:definedMod": "opencomputers"
+					},
+					Damage: 4s
+				},
+				twilightforest: {
+					ForgeCaps: {
+						"astralsorcery:cap_item_amulet_holder": {
+							AS_Amulet_HolderLeast: -4833433468184046596L,
+							AS_Amulet_HolderMost: -8936466980767643917L
+						}
+					},
+					id: "patchouli:guide_book",
+					Count: 1b,
+					tag: {
+						"akashictome:displayName": "Traveller's Logbook",
+						"akashictome:definedMod": "twilightforest",
+						"akashictome:is_morphing": 1b,
+						display: {
+							Name: "§rAkashic Tome (§aTraveller's Logbook§r)"
+						},
+						"patchouli:book": "twilightforest:guide"
+					},
+					Damage: 0s
+				},
+				cookingforblockheads: {
+					id: "cookingforblockheads:recipe_book",
+					Count: 1b,
+					tag: {
+						"akashictome:definedMod": "cookingforblockheads"
+					},
+					Damage: 1s
+				},
+				xnet: {
+					id: "xnet:xnet_manual",
+					Count: 1b,
+					tag: {
+						"akashictome:definedMod": "xnet"
+					},
+					Damage: 0s
+				},
+				openblocks: {
+					id: "openblocks:info_book",
+					Count: 1b,
+					tag: {
+						"akashictome:definedMod": "openblocks"
+					},
+					Damage: 0s
+				}
+			}
+		}
+	},
+	x: -5.0d,
+	y: -1.0d,
+	description: "Hey calm down! if you somehow lost your Akashic tome pay me 1 XP level and I will give your book back...",
+	can_repeat: true,
+	dependencies: [
+		"34965c4b"
+	],
+	hide: true,
+	optional: true,
+	tasks: [{
+		uid: "d848946d",
+		type: "xp",
+		value: 1L,
+		points: false
+	}],
+	rewards: [{
+		uid: "a51c10d8",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "akashictome:tome",
+			tag: {
+				"akashictome:is_morphing": 1b,
+				"akashictome:data": {
+					industrialforegoing: {
+						id: "industrialforegoing:book_manual",
+						Count: 1b,
+						tag: {
+							"akashictome:definedMod": "industrialforegoing"
+						},
+						Damage: 0s
+					},
+					rftoolscontrol: {
+						id: "rftoolscontrol:rftoolscontrol_manual",
+						Count: 1b,
+						tag: {
+							"akashictome:definedMod": "rftoolscontrol"
+						},
+						Damage: 0s
+					},
+					tconstruct: {
+						id: "tconstruct:book",
+						Count: 1b,
+						tag: {
+							"akashictome:definedMod": "tconstruct"
+						},
+						Damage: 0s
+					},
+					astralsorcery: {
+						id: "astralsorcery:itemjournal",
+						Count: 1b,
+						tag: {
+							"akashictome:definedMod": "astralsorcery"
+						},
+						Damage: 0s
+					},
+					immersiveengineering: {
+						id: "immersiveengineering:tool",
+						Count: 1b,
+						tag: {
+							"akashictome:definedMod": "immersiveengineering"
+						},
+						Damage: 3s
+					},
+					valkyrielib: {
+						id: "valkyrielib:guide",
+						Count: 1b,
+						tag: {
+							"akashictome:definedMod": "valkyrielib"
+						},
+						Damage: 0s
+					},
+					cookingforblockheads1: {
+						id: "cookingforblockheads:recipe_book",
+						Count: 1b,
+						tag: {
+							"akashictome:definedMod": "cookingforblockheads1"
+						},
+						Damage: 2s
+					},
+					rftools: {
+						id: "rftools:rftools_manual",
+						Count: 1b,
+						tag: {
+							"akashictome:definedMod": "rftools"
+						},
+						Damage: 0s
+					},
+					rftools1: {
+						id: "rftools:rftools_shape_manual",
+						Count: 1b,
+						tag: {
+							"akashictome:definedMod": "rftools1"
+						},
+						Damage: 0s
+					},
+					solcarrot: {
+						id: "solcarrot:food_book",
+						Count: 1b,
+						tag: {
+							"akashictome:definedMod": "solcarrot"
+						},
+						Damage: 0s
+					},
+					rftools2: {
+						id: "rftoolsdim:rftoolsdim_manual",
+						Count: 1b,
+						tag: {
+							"akashictome:definedMod": "rftools2"
+						},
+						Damage: 0s
+					},
+					extendedcrafting: {
+						id: "extendedcrafting:guide",
+						Count: 1b,
+						tag: {
+							"akashictome:definedMod": "extendedcrafting"
+						},
+						Damage: 0s
+					},
+					guideapi: {
+						id: "guideapi:cyclicmagic-guide",
+						Count: 1b,
+						tag: {
+							"akashictome:definedMod": "guideapi"
+						},
+						Damage: 0s
+					},
+					botania: {
+						id: "botania:lexicon",
+						Count: 1b,
+						tag: {
+							"akashictome:definedMod": "botania"
+						},
+						Damage: 0s
+					},
+					thermalfoundation: {
+						id: "thermalfoundation:tome_lexicon",
+						Count: 1b,
+						tag: {
+							"akashictome:definedMod": "thermalfoundation"
+						},
+						Damage: 0s
+					},
+					extrautils2: {
+						id: "extrautils2:book",
+						Count: 1b,
+						tag: {
+							"akashictome:definedMod": "extrautils2"
+						},
+						Damage: 0s
+					},
+					actuallyadditions: {
+						id: "actuallyadditions:item_booklet",
+						Count: 1b,
+						tag: {
+							"akashictome:definedMod": "actuallyadditions"
+						},
+						Damage: 0s
+					},
+					bloodmagic: {
+						id: "guideapi:bloodmagic-guide",
+						Count: 1b,
+						tag: {
+							"akashictome:definedMod": "bloodmagic"
+						},
+						Damage: 0s
+					},
+					opencomputers: {
+						id: "opencomputers:tool",
+						Count: 1b,
+						tag: {
+							"akashictome:definedMod": "opencomputers"
+						},
+						Damage: 4s
+					},
+					twilightforest: {
+						ForgeCaps: {
+							"astralsorcery:cap_item_amulet_holder": {
+								AS_Amulet_HolderLeast: -4833433468184046596L,
+								AS_Amulet_HolderMost: -8936466980767643917L
+							}
+						},
+						id: "patchouli:guide_book",
+						Count: 1b,
+						tag: {
+							"akashictome:displayName": "Traveller's Logbook",
+							"akashictome:definedMod": "twilightforest",
+							"akashictome:is_morphing": 1b,
+							display: {
+								Name: "§rAkashic Tome (§aTraveller's Logbook§r)"
+							},
+							"patchouli:book": "twilightforest:guide"
+						},
+						Damage: 0s
+					},
+					cookingforblockheads: {
+						id: "cookingforblockheads:recipe_book",
+						Count: 1b,
+						tag: {
+							"akashictome:definedMod": "cookingforblockheads"
+						},
+						Damage: 1s
+					},
+					xnet: {
+						id: "xnet:xnet_manual",
+						Count: 1b,
+						tag: {
+							"akashictome:definedMod": "xnet"
+						},
+						Damage: 0s
+					},
+					openblocks: {
+						id: "openblocks:info_book",
+						Count: 1b,
+						tag: {
+							"akashictome:definedMod": "openblocks"
+						},
+						Damage: 0s
+					}
+				}
+			}
+		}
+	}]
+}

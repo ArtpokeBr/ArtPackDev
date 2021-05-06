@@ -1,0 +1,6 @@
+{
+  "inventory": {
+    "0:1": "minecraft:cooked_fish,5,1",
+    "0:0": "tconstruct:broadsword,1,0,{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.09f,FreeModifiers:3,Durability:376,HarvestLevel:1,Attack:3.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.09f,FreeModifiers:0,Durability:376,HarvestLevel:1,Attack:5.0f},Special:{Categories:[\"weapon\",\"tool\"],RepairCount:1},TinkerData:{UsedModifiers:3,Materials:[\"bone\",\"bone\",\"bone\"],Modifiers:[\"shulking\",\"knockback\"]},Modifiers:[{identifier:\"fractured\",color:-1186113,level:1},{identifier:\"splintering\",color:-1186113,level:1},{identifier:\"shulking\",current:50,color:11193599,level:1,max:50,extraInfo:\"49 / 50\"},{identifier:\"knockback\",current:20,color:10461087,level:2,max:20,extraInfo:\"19 / 20\"}],Traits:[\"fractured\",\"splintering\",\"shulking\",\"knockback\"]}"
+  }
+}

@@ -1,0 +1,39 @@
+{
+    "machine": "wooting_machine",
+    "registryName": "wooting_machine_7",
+    "recipeTime": 50,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 20
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "woot:controller",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "woot:factorybase",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "woot:factorycore:1",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "woot:endershard",
+            "amount": 1
+        }
+
+
+        
+    ]
+}

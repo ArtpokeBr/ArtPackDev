@@ -1,0 +1,53 @@
+{
+	title: "All the Applied Storage in the World!",
+	x: 2.0d,
+	y: 0.5d,
+	shape: "rsquare",
+	description: "You probally already have a lot of items storaged in your system, but why not infinite storage?",
+	text: [
+		""
+	],
+	dependencies: [
+		"bdb90825",
+		"3f7b50b6"
+	],
+	hide: true,
+	tasks: [{
+		uid: "b965b379",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "appliedenergistics2:creative_storage_cell",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "7dc491ea",
+		type: "item",
+		items: [{
+			item: "thaumicenergistics:essentia_cell_creative"
+		}]
+	}],
+	rewards: [{
+		uid: "debd12e5",
+		type: "item",
+		item: "thaumicenergistics:essentia_cell_creative",
+		random_bonus: 4
+	},
+	{
+		uid: "e6200666",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "appliedenergistics2:creative_storage_cell",
+			tag: {}
+		},
+		random_bonus: 4
+	}]
+}

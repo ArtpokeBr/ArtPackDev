@@ -1,0 +1,41 @@
+{
+	title: "All the Gases in the World!",
+	x: 3.0d,
+	y: -1.0d,
+	shape: "square",
+	description: "Tired to suply your laggy 5x in mekanism with specific gases? this is the answer!",
+	text: [
+		"Finally you can store your stinky farts that you've released during the playtrough..."
+	],
+	dependencies: [
+		"bdb90825"
+	],
+	hide: true,
+	tasks: [{
+		uid: "1b9a1c4e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:gastank",
+			tag: {
+				tier: 4
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "10af013c",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:gastank",
+			tag: {
+				tier: 4
+			}
+		},
+		random_bonus: 4
+	}]
+}

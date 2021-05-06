@@ -1,0 +1,39 @@
+{
+    "machine": "wooting_machine",
+    "registryName": "wooting_machine_10",
+    "recipeTime": 50,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 20
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "woot:factorycore@2",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:redstone",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:iron_block",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "woot:stygianironplate",
+            "amount": 1
+        }
+
+
+        
+    ]
+}

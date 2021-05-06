@@ -1,0 +1,42 @@
+{
+	title: "All the Liquids in the World!",
+	x: 5.0d,
+	y: -2.0d,
+	shape: "square",
+	description: "No need to farm Liquids anymore, this also means that you can maybe farm some ingots right?",
+	text: [
+		""
+	],
+	dependencies: [
+		"bdb90825"
+	],
+	tasks: [{
+		uid: "a3149e32",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:machineblock2",
+			tag: {
+				tier: 4
+			},
+			Damage: 11s
+		}]
+	}],
+	rewards: [{
+		uid: "ee99af55",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:machineblock2",
+			tag: {
+				tier: 4
+			},
+			Damage: 11s
+		},
+		random_bonus: 4
+	}]
+}

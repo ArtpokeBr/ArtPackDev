@@ -1,0 +1,27 @@
+{
+	title: "All the Storage in the World",
+	x: 1.0d,
+	y: -1.0d,
+	shape: "square",
+	description: "This upgrade will grant you Infinite itens inside of your Drawer, but keep in mind, it will only turn infinite the amount of items that you can store, not the actual Items!",
+	text: [
+		""
+	],
+	dependencies: [
+		"bdb90825"
+	],
+	hide: true,
+	tasks: [{
+		uid: "a0b4b7ee",
+		type: "item",
+		items: [{
+			item: "storagedrawers:upgrade_creative"
+		}]
+	}],
+	rewards: [{
+		uid: "53f8fe1f",
+		type: "item",
+		item: "storagedrawers:upgrade_creative",
+		random_bonus: 4
+	}]
+}

@@ -1,0 +1,28 @@
+{
+	title: "Singularities Let's Go!",
+	x: -3.5d,
+	y: -1.5d,
+	shape: "gear",
+	description: "There are 64 Singularities in this Pack, Good Luck automating all of them!",
+	text: [
+		"In case you're playing and it feels like some singularities are really really reeeeally a pain to automate, please inform me at the Issues page in GitHub.",
+		"I will take a look and probally fix it as soon as possible!"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"bdb90825"
+	],
+	hide: true,
+	tasks: [{
+		uid: "0b1b632a",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:compressor"
+		}]
+	}],
+	rewards: [{
+		uid: "7792aa3c",
+		type: "item",
+		item: "extendedcrafting:material 1 13"
+	}]
+}

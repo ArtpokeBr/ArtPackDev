@@ -1,0 +1,606 @@
+{
+   "registryname": "seed_fabricator",
+   "localizedname": "Seed Fabricator",
+   "color": "71867D",
+        "parts": [
+            {
+                "x": -2,
+                "y": 0,
+                "z": 2,
+                "elements": [
+                    "thermalfoundation:glass@6"
+                ]
+            },
+            {
+                "x": -1,
+                "y": 2,
+                "z": 3,
+                "elements": [
+                    "twilightforest:maze_stone@3"
+                ]
+            },
+            {
+                "x": -1,
+                "y": 0,
+                "z": 0,
+                "elements": [
+                    "casings_item_in"
+                ]
+            },
+            {
+                "x": 1,
+                "y": 2,
+                "z": 1,
+                "elements": [
+                    "twilightforest:maze_stone@3"
+                ]
+            },
+            {
+                "x": -2,
+                "y": 0,
+                "z": 0,
+                "elements": [
+                    "twilightforest:maze_stone@0"
+                ]
+            },
+            {
+                "x": 0,
+                "y": 2,
+                "z": 3,
+                "elements": [
+                    "twilightforest:maze_stone@3"
+                ]
+            },
+            {
+                "x": 1,
+                "y": 0,
+                "z": 0,
+                "elements": [
+                    "twilightforest:maze_stone@0"
+                ]
+            },
+            {
+                "x": -1,
+                "y": 0,
+                "z": 2,
+                "elements": [
+                    "contenttweaker:supremium_essence@0"
+                ]
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "z": 2,
+                "elements": [
+                    "contenttweaker:supremium_essence@0"
+                ]
+            },
+            {
+                "x": 1,
+                "y": 2,
+                "z": 3,
+                "elements": [
+                    "twilightforest:maze_stone@1"
+                ]
+            },
+            {
+                "x": 1,
+                "y": 0,
+                "z": 2,
+                "elements": [
+                    "thermalfoundation:glass@6"
+                ]
+            },
+            {
+                "x": -2,
+                "y": 3,
+                "z": 1,
+                "elements": [
+                    "immersiveengineering:sheetmetal@4"
+                ]
+            },
+            {
+                "x": 1,
+                "y": -1,
+                "z": 0,
+                "elements": [
+                    "twilightforest:maze_stone@1"
+                ]
+            },
+            {
+                "x": -2,
+                "y": 1,
+                "z": 0,
+                "elements": [
+                    "twilightforest:maze_stone@0"
+                ]
+            },
+            {
+                "x": -1,
+                "y": 3,
+                "z": 1,
+                "elements": [
+                    "modularmachinery:blockcasing@1"
+                ]
+            },
+            {
+                "x": 0,
+                "y": -1,
+                "z": 0,
+                "elements": [
+                    "modularmachinery:blockcasing@0"
+                ]
+            },
+            {
+                "x": -1,
+                "y": 1,
+                "z": 0,
+                "elements": [
+                    "modularmachinery:blockcasing@0"
+                ]
+            },
+            {
+                "x": -2,
+                "y": 3,
+                "z": 3,
+                "elements": [
+                    "immersiveengineering:sheetmetal_slab@4"
+                ]
+            },
+            {
+                "x": 0,
+                "y": 3,
+                "z": 1,
+                "elements": [
+                    "modularmachinery:blockcasing@3"
+                ]
+            },
+            {
+                "x": 1,
+                "y": 3,
+                "z": 1,
+                "elements": [
+                    "immersiveengineering:sheetmetal@4"
+                ]
+            },
+            {
+                "x": 0,
+                "y": 1,
+                "z": 0,
+                "elements": [
+                    "modularmachinery:blockcasing@0"
+                ]
+            },
+            {
+                "x": -1,
+                "y": -1,
+                "z": 0,
+                "elements": [
+                    "modularmachinery:blockcasing@0"
+                ]
+            },
+            {
+                "x": -2,
+                "y": 1,
+                "z": 2,
+                "elements": [
+                    "modularmachinery:blockcasing@0"
+                ]
+            },
+            {
+                "x": -1,
+                "y": 3,
+                "z": 3,
+                "elements": [
+                    "immersiveengineering:sheetmetal@4"
+                ]
+            },
+            {
+                "x": -2,
+                "y": -1,
+                "z": 0,
+                "elements": [
+                    "twilightforest:maze_stone@1"
+                ]
+            },
+            {
+                "x": -2,
+                "y": -1,
+                "z": 1,
+                "elements": [
+                    "modularmachinery:blockcasing@0"
+                ]
+            },
+            {
+                "x": -1,
+                "y": 1,
+                "z": 2,
+                "elements": [
+                    "contenttweaker:supremium_essence@0"
+                ]
+            },
+            {
+                "x": 0,
+                "y": 3,
+                "z": 3,
+                "elements": [
+                    "immersiveengineering:sheetmetal@4"
+                ]
+            },
+            {
+                "x": 1,
+                "y": 1,
+                "z": 0,
+                "elements": [
+                    "twilightforest:maze_stone@0"
+                ]
+            },
+            {
+                "x": 1,
+                "y": 3,
+                "z": 3,
+                "elements": [
+                    "immersiveengineering:sheetmetal_slab@4"
+                ]
+            },
+            {
+                "x": 0,
+                "y": 1,
+                "z": 2,
+                "elements": [
+                    "contenttweaker:supremium_essence@0"
+                ]
+            },
+            {
+                "x": -1,
+                "y": -1,
+                "z": 1,
+                "elements": [
+                    "mysticalagradditions:storage@0"
+                ]
+            },
+            {
+                "x": 0,
+                "y": -1,
+                "z": 1,
+                "elements": [
+                    "mysticalagradditions:storage@0"
+                ]
+            },
+            {
+                "x": -2,
+                "y": -1,
+                "z": 3,
+                "elements": [
+                    "twilightforest:maze_stone@1"
+                ]
+            },
+            {
+                "x": 1,
+                "y": 1,
+                "z": 2,
+                "elements": [
+                    "modularmachinery:blockcasing@0"
+                ]
+            },
+            {
+                "x": 1,
+                "y": -1,
+                "z": 1,
+                "elements": [
+                    "modularmachinery:blockcasing@0"
+                ]
+            },
+            {
+                "x": -1,
+                "y": -1,
+                "z": 3,
+                "elements": [
+                    "modularmachinery:blockcasing@0"
+                ]
+            },
+            {
+                "x": 0,
+                "y": -1,
+                "z": 3,
+                "elements": [
+                    "modularmachinery:blockcasing@0"
+                ]
+            },
+            {
+                "x": 1,
+                "y": -1,
+                "z": 3,
+                "elements": [
+                    "twilightforest:maze_stone@1"
+                ]
+            },
+            {
+                "x": -2,
+                "y": 2,
+                "z": 0,
+                "elements": [
+                    "twilightforest:maze_stone@1"
+                ]
+            },
+            {
+                "x": -1,
+                "y": 2,
+                "z": 0,
+                "elements": [
+                    "twilightforest:maze_stone@3"
+                ]
+            },
+            {
+                "x": 0,
+                "y": 2,
+                "z": 0,
+                "elements": [
+                    "twilightforest:maze_stone@3"
+                ]
+            },
+            {
+                "x": -2,
+                "y": 2,
+                "z": 2,
+                "elements": [
+                    "twilightforest:maze_stone@3"
+                ]
+            },
+            {
+                "x": -2,
+                "y": 0,
+                "z": 1,
+                "elements": [
+                    "thermalfoundation:glass@6"
+                ]
+            },
+            {
+                "x": 1,
+                "y": 2,
+                "z": 0,
+                "elements": [
+                    "twilightforest:maze_stone@1"
+                ]
+            },
+            {
+                "x": -1,
+                "y": 0,
+                "z": 1,
+                "elements": [
+                    "contenttweaker:supremium_essence@0"
+                ]
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "z": 1,
+                "elements": [
+                    "contenttweaker:supremium_essence@0"
+                ]
+            },
+            {
+                "x": -2,
+                "y": 0,
+                "z": 3,
+                "elements": [
+                    "twilightforest:maze_stone@0"
+                ]
+            },
+            {
+                "x": 1,
+                "y": 2,
+                "z": 2,
+                "elements": [
+                    "twilightforest:maze_stone@3"
+                ]
+            },
+            {
+                "x": 1,
+                "y": 0,
+                "z": 1,
+                "elements": [
+                    "thermalfoundation:glass@6"
+                ]
+            },
+            {
+                "x": -1,
+                "y": 0,
+                "z": 3,
+                "elements": [
+                    "casings_item_out"
+                ]
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "z": 3,
+                "elements": [
+                    "casings_fluid_in"
+                ]
+            },
+            {
+                "x": 1,
+                "y": 0,
+                "z": 3,
+                "elements": [
+                    "twilightforest:maze_stone@0"
+                ]
+            },
+            {
+                "x": -2,
+                "y": 3,
+                "z": 0,
+                "elements": [
+                    "immersiveengineering:sheetmetal_slab@4"
+                ]
+            },
+            {
+                "x": -1,
+                "y": 3,
+                "z": 0,
+                "elements": [
+                    "immersiveengineering:sheetmetal@4"
+                ]
+            },
+            {
+                "x": -2,
+                "y": 3,
+                "z": 2,
+                "elements": [
+                    "immersiveengineering:sheetmetal@4"
+                ]
+            },
+            {
+                "x": 0,
+                "y": 3,
+                "z": 0,
+                "elements": [
+                    "immersiveengineering:sheetmetal@4"
+                ]
+            },
+            {
+                "x": 1,
+                "y": 3,
+                "z": 0,
+                "elements": [
+                    "immersiveengineering:sheetmetal_slab@4"
+                ]
+            },
+            {
+                "x": -2,
+                "y": 1,
+                "z": 1,
+                "elements": [
+                    "modularmachinery:blockcasing@0"
+                ]
+            },
+            {
+                "x": -1,
+                "y": 3,
+                "z": 2,
+                "elements": [
+                    "modularmachinery:blockcasing@3"
+                ]
+            },
+            {
+                "x": -1,
+                "y": 1,
+                "z": 1,
+                "elements": [
+                    "contenttweaker:supremium_essence@0"
+                ]
+            },
+            {
+                "x": 0,
+                "y": 3,
+                "z": 2,
+                "elements": [
+                    "modularmachinery:blockcasing@1"
+                ]
+            },
+            {
+                "x": 1,
+                "y": 3,
+                "z": 2,
+                "elements": [
+                    "immersiveengineering:sheetmetal@4"
+                ]
+            },
+            {
+                "x": 0,
+                "y": 1,
+                "z": 1,
+                "elements": [
+                    "contenttweaker:supremium_essence@0"
+                ]
+            },
+            {
+                "x": -2,
+                "y": 1,
+                "z": 3,
+                "elements": [
+                    "twilightforest:maze_stone@0"
+                ]
+            },
+            {
+                "x": -2,
+                "y": -1,
+                "z": 2,
+                "elements": [
+                    "modularmachinery:blockcasing@0"
+                ]
+            },
+            {
+                "x": -1,
+                "y": 1,
+                "z": 3,
+                "elements": [
+                    "modularmachinery:blockcasing@0"
+                ]
+            },
+            {
+                "x": 1,
+                "y": 1,
+                "z": 1,
+                "elements": [
+                    "modularmachinery:blockcasing@0"
+                ]
+            },
+            {
+                "x": 0,
+                "y": 1,
+                "z": 3,
+                "elements": [
+                    "modularmachinery:blockcasing@0"
+                ]
+            },
+            {
+                "x": -1,
+                "y": -1,
+                "z": 2,
+                "elements": [
+                    "mysticalagradditions:storage@0"
+                ]
+            },
+            {
+                "x": 0,
+                "y": -1,
+                "z": 2,
+                "elements": [
+                    "mysticalagradditions:storage@0"
+                ]
+            },
+            {
+                "x": 1,
+                "y": 1,
+                "z": 3,
+                "elements": [
+                    "twilightforest:maze_stone@0"
+                ]
+            },
+            {
+                "x": 1,
+                "y": -1,
+                "z": 2,
+                "elements": [
+                    "modularmachinery:blockcasing@0"
+                ]
+            },
+            {
+                "x": -2,
+                "y": 2,
+                "z": 1,
+                "elements": [
+                    "twilightforest:maze_stone@3"
+                ]
+            },
+            {
+                "x": -2,
+                "y": 2,
+                "z": 3,
+                "elements": [
+                    "twilightforest:maze_stone@1"
+                ]
+            }
+        ]}

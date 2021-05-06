@@ -1,0 +1,10 @@
+{
+	title: "Welcome!",
+	icon: "minecraft:grass",
+	description: [
+		"Info about the Pack and More!"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "circle"
+}

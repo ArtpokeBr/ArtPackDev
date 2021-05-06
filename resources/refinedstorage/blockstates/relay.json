@@ -1,0 +1,27 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "refinedstorage:cube_all_cutout",
+    "textures": {
+      "particle": "refinedstorage:blocks/relay/relay",
+      "all": "refinedstorage:blocks/relay/relay",
+      "cutout": "refinedstorage:blocks/relay/cutouts/disconnected"
+    }
+  },
+  "variants": {
+    "inventory": [
+      {
+        "transform": "forge:default-block"
+      }
+    ],
+    "connected": {
+      "true": {
+        "textures": {
+          "cutout": "refinedstorage:blocks/relay/cutouts/connected"
+        }
+      },
+      "false": {
+      }
+    }
+  }
+}

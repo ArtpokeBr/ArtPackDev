@@ -1,0 +1,54 @@
+{
+	title: "Cheaty or Lazy?",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "thaumcraft:thaumonomicon",
+		Damage: 1s
+	},
+	x: -3.0d,
+	y: 1.0d,
+	description: "Gimme one Divination dust and I will remove the necessitie  of more Research in both Astral and Thaumcraft",
+	text: [
+		""
+	],
+	dependencies: [
+		"34965c4b"
+	],
+	hide: true,
+	optional: true,
+	tasks: [{
+		uid: "728fb8fa",
+		type: "item",
+		items: [{
+			item: "contenttweaker:dustotg"
+		}]
+	}],
+	rewards: [{
+		uid: "deb1035a",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemknowledgeshare",
+			tag: {
+				astralsorcery: {
+					creativeKnowledge: 1b
+				}
+			}
+		}
+	},
+	{
+		uid: "06f4737a",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:thaumonomicon",
+			Damage: 1s
+		}
+	}]
+}

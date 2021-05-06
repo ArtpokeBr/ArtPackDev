@@ -1,0 +1,20 @@
+{
+	title: "Creative Mill Reward",
+	loot_size: 1,
+	rewards: [{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrautils2:lawsword"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrautils2:compoundbow"
+		}
+	}]
+}

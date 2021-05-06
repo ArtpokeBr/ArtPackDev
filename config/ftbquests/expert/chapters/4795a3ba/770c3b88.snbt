@@ -1,0 +1,25 @@
+{
+	title: "All the Pressure in the World!",
+	x: 5.0d,
+	y: -1.0d,
+	shape: "square",
+	description: "Finally you can shut off your laggy ways to produce Pressure for the PneumaticCraft machines!",
+	text: [
+		"Queen ~ Under Pressure!"
+	],
+	dependencies: [
+		"bdb90825"
+	],
+	tasks: [{
+		uid: "334c2b8d",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:creative_compressor"
+		}]
+	}],
+	rewards: [{
+		uid: "dc25fd0b",
+		type: "xp_levels",
+		xp_levels: 100
+	}]
+}

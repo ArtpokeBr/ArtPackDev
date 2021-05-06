@@ -1,0 +1,36 @@
+{
+	title: "Carrying all the Energy in the world with you!",
+	x: 3.0d,
+	y: -3.5d,
+	shape: "square",
+	description: "Why not carry all the Energy with you arround?",
+	text: [
+		""
+	],
+	dependencies: [
+		"80cd2d85",
+		"bdb90825",
+		"4c0162e2"
+	],
+	hide: true,
+	tasks: [{
+		uid: "df8140d1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalexpansion:capacitor",
+			tag: {
+				Energy: 25000000
+			},
+			Damage: 32000s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "928c8a89",
+		type: "xp_levels",
+		xp_levels: 100
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: -7.5d,
+	y: -3.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"94580bda"
+	],
+	hide: true,
+	tasks: [{
+		uid: "74c644e8",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity 1 66"
+		}]
+	}],
+	rewards: [{
+		uid: "400f57b7",
+		type: "loot",
+		table: 2
+	}]
+}

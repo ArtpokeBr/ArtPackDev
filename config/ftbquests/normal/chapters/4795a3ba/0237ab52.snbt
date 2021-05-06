@@ -1,0 +1,27 @@
+{
+	title: "All the Modifier's in the World!",
+	x: 1.0d,
+	y: -2.0d,
+	shape: "square",
+	description: "Pherhaps you've noticed that the pack doesn't contain \"Tinker's Xp\" this is on purpose to make this Modifier and the way you make your tool more Relevant!",
+	text: [
+		""
+	],
+	dependencies: [
+		"bdb90825"
+	],
+	hide: true,
+	tasks: [{
+		uid: "50b8c0cd",
+		type: "item",
+		items: [{
+			item: "tconstruct:materials 1 50"
+		}]
+	}],
+	rewards: [{
+		uid: "6cd73d14",
+		type: "item",
+		item: "tconstruct:materials 1 50",
+		random_bonus: 4
+	}]
+}

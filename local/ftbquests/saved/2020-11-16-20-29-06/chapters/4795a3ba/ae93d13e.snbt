@@ -1,0 +1,28 @@
+{
+	title: "All the Mana in the World!",
+	x: 3.0d,
+	y: -2.0d,
+	shape: "square",
+	description: "Tired of your current laggy mana Generation? why not make a Creative mana pool to solve that?",
+	text: [
+		"Botania is Considered a Tech mod did you know that? At least I consider it to be a semi-tech one..."
+	],
+	dependencies: [
+		"bdb90825"
+	],
+	hide: true,
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "8cd4f3de",
+		type: "item",
+		items: [{
+			item: "botania:pool 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "136e71ee",
+		type: "item",
+		item: "botania:manaresource 1 5",
+		random_bonus: 63
+	}]
+}

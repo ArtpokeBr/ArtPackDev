@@ -1,0 +1,26 @@
+{
+	title: "The Quests are all about Achievements!",
+	icon: "threng:material",
+	x: -3.0d,
+	y: -3.0d,
+	description: "Other Chapters of Quests will only require you to make certain items to complete and prove that you've automated them or reached them!",
+	text: [
+		"The pack doesn't contain specific gates wich require guided quests to it, so, to still have some cool quests and add extra purpose to the pack all of quests",
+		"can be considere as \"achievements\", so completing all of them means that you finished 100% of the pack!"
+	],
+	dependencies: [
+		"34965c4b"
+	],
+	hide: true,
+	tasks: [{
+		uid: "e9225088",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "65d1c398",
+		type: "choice",
+		title: "Foodie Reward!",
+		icon: "harvestcraft:bakedhamitem",
+		table: 0
+	}]
+}

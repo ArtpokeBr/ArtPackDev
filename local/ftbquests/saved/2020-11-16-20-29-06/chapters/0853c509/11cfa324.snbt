@@ -1,0 +1,61 @@
+{
+	title: "Usefull Info about Ores!",
+	x: -1.0d,
+	y: -1.0d,
+	description: "Did you know that in the Pack some Ores only spawn in Specific Conditions?",
+	text: [
+		"All the \"Modified\" Ores will be Listed Here but let's Start with the First Changes:",
+		"",
+		"- Starmetal Ore can be mined in the Twilight!",
+		"- Prosperity and Inferium Ores are only found in the End.",
+		"- Emerald only generate in Extreme Hill's Biomes.",
+		"",
+		" Also, Deep Dark is Know for having some Rare Ores generating on it:",
+		"",
+		"- Draconium Ore",
+		"- Prosperity Ore",
+		"- Rock Crystal",
+		"- Starmetal",
+		"- Dimensional Shard",
+		"- Mana Infused Ore",
+		"- Iridium",
+		"",
+		"These are the current ores modified, maybe this list will grow over time?"
+	],
+	dependencies: [
+		"34965c4b"
+	],
+	tasks: [{
+		uid: "055d1917",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockcustomore 1 1"
+		}],
+		consume_items: false,
+		only_from_crafting: false
+	},
+	{
+		uid: "316ffe34",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:end_prosperity_ore"
+		}]
+	},
+	{
+		uid: "f54de313",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:end_inferium_ore"
+		}]
+	}],
+	rewards: [{
+		uid: "6aca368a",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forestry:miner_bag_t2"
+		}
+	}]
+}

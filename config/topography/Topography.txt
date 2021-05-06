@@ -1,0 +1,4 @@
+ArtPack = registerPreset("Artistic Generation", "images/World", "Artistico Style!", "RTG")
+
+setAsDefaultWorldType()
+printDocumentation(false)

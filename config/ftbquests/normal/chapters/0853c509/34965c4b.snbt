@@ -1,0 +1,27 @@
+{
+	title: "Welcome to my Pack!",
+	icon: "industrialforegoing:resourceful_furnace",
+	x: -3.0d,
+	y: -1.0d,
+	description: "ArtPack is all about Automation and Freedom!",
+	text: [
+		"You heard it right! the goal of this pack is to be free of difficult gates and grind and focus itself on the fun part, Automation! ",
+		"Feel free to sugest more automation chains if you want too in the GitHub Issues Page (wich can be found in the Main Menu).",
+		"and also pay attention to JEI somethings certain Items have crazy new automations made for them :p"
+	],
+	tasks: [{
+		uid: "64242742",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "608d1067",
+		type: "item",
+		item: "harvestcraft:steaktartareitem"
+	},
+	{
+		uid: "af7aef2b",
+		type: "item",
+		item: "integrateddynamics:menril_torch",
+		count: 5
+	}]
+}
